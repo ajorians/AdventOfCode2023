@@ -6,3 +6,4 @@ Advent of code for 2023.
 - Day 2: Regular expressions and made struct type
 - Day 3: Operations like methods on struct type
 - Day 4: Some improvements on splitting up a string
+- Day 5: Used a long int type and made a typedef
