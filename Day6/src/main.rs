@@ -1,4 +1,4 @@
-fn race(time : i32, record : i32) ->i32 {
+fn race(time : i64, record : i64) ->i32 {
 
     let mut times_broke_record = 0;
 
@@ -21,12 +21,12 @@ fn race(time : i32, record : i32) ->i32 {
 fn main() {
     println!("Day6");
 
-    let times_broke_record1 = race(  38 /*time*/, 234 /*record*/ );
-    let times_broke_record2 = race(  67 /*time*/, 1027 /*record*/ );
-    let times_broke_record3 = race(  76 /*time*/, 1157 /*record*/ );
-    let times_broke_record4 = race(  73 /*time*/,1236 /*record*/ );
+    let times_broke_record1 = race(  38677673 /*time*/, 234102711571236 /*record*/ );
+    //let times_broke_record2 = race(  67 /*time*/, 1027 /*record*/ );
+    //let times_broke_record3 = race(  76 /*time*/, 1157 /*record*/ );
+    //let times_broke_record4 = race(  73 /*time*/,1236 /*record*/ );
 
-    println!("Mutiple of values is {}", times_broke_record1*times_broke_record2*times_broke_record3*times_broke_record4);
+    println!("Mutiple of values is {}", times_broke_record1);
 }
 
 
