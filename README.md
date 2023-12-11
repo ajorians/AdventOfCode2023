@@ -7,3 +7,6 @@ Advent of code for 2023.
 - Day 3: Operations like methods on struct type
 - Day 4: Some improvements on splitting up a string
 - Day 5: Used a long int type and made a typedef
+- Day 6: Learned there was not digit separator character
+- Day 7: Used ordering though will want to improve upon it
+- Day 8: Used Option and named loops
