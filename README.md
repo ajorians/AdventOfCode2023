@@ -10,3 +10,5 @@ Advent of code for 2023.
 - Day 6: Learned there was not digit separator character
 - Day 7: Used ordering though will want to improve upon it
 - Day 8: Used Option and named loops
+- Day 9: Used Zip to get pair of numbers
+- Day 10: Got better with enums
