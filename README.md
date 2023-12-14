@@ -12,3 +12,4 @@ Advent of code for 2023.
 - Day 8: Used Option and named loops
 - Day 9: Used Zip to get pair of numbers
 - Day 10: Got better with enums
+- Day 11: Digit separators and unnamed variables
