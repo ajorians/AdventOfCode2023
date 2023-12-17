@@ -14,3 +14,5 @@ Advent of code for 2023.
 - Day 10: Got better with enums
 - Day 11: Digit separators and unnamed variables
 - Day 12: Used recursion.  Simpler struct initialization
+- Day 13: Use std::cmp::min
+- 
