@@ -17,3 +17,4 @@ Advent of code for 2023.
 - Day 13: Use std::cmp::min
 - Day 14: Used a mutable self
 - Day 15: Converted char to ASCII
+- Day 16: Used destructing a Tuples
